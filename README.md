@@ -1,6 +1,6 @@
 # Hi, I'm Gunjan Prasad 👋
 
-### Software Engineer | Python | SQL | Data & AI
+### Data Engineer | Python | SQL | Data & AI
 
 I'm an Information Science & Engineering graduate interested in
 software development, data engineering, machine learning, and automation.
